@@ -1,0 +1,4 @@
+# gitignore file custom written by jacobo
+
+.env
+node_modules
